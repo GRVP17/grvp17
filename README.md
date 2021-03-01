@@ -1,4 +1,11 @@
 ### Hi there 👋
+Hi there 👋
+-🔭 I’m currently working on ... two projects Face Detector, Jarvis Assistant.
+-🌱 I’m currently learning ... Python
+-💬 Ask me about ... Python, Html, Css.
+-Website grvp17.github.io
+-📫 How to reach me: ... Twitter - GRVP17 and gauravp.dev17@gmail.com
+-Thankyou..
 
 <!--
 **GRVP17/grvp17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
