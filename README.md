@@ -2,7 +2,7 @@
 - 🔭 I’m currently working on ... Jarvis Assistant, Face Detector Projects
 - 🌱 I’m currently learning ... Python
 - 💬 Ask me about ... Python, HTML, CSS
-- 📫 How to reach me: ... Twitter - gauravpandey_ , Website - https://gauravpandey14.github.io, Mail - gauravp.dev17@gmail.com 
+- 📫 How to reach me: ... Twitter - gauravpandey_ , Website - https://sites.google.com/view/gaurav-pandey, Mail - gauravp.dev17@gmail.com 
 -Thankyou..!!
 
 <!--
