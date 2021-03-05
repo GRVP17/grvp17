@@ -1,8 +1,9 @@
 ### Hi there 👋
 - 🔭 I’m currently working on ... Jarvis Assistant, Face Detector Projects
-- 🌱 I’m currently learning ... Python
+- 🌱 I’m currently learning ... Python, Machine Learning
 - 💬 Ask me about ... Python, HTML, CSS
-- 📫 How to reach me: ... Twitter - gauravpandey_ , Website - https://sites.google.com/view/gaurav-pandey, Mail - gauravp.dev17@gmail.com 
+- 📫 How to reach me: ... Twitter - gauravpandey_ , Website - https://sites.google.com/view/gaurav-pandey, Mail - developer.gauravpandey@gmail.com
+- 😄 Pronouns: He/Him...
 -Thankyou..!!
 
 <!--
